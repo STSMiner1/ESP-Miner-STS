@@ -1,7 +1,7 @@
 key,type,encoding,value
 main,namespace,,
 hostname,data,string,bitaxe
-wifissid,data,string,myssid
+wifissid,data,string,WiFi SETUP REQUIRED
 wifipass,data,string,password
 stratumurl,data,string,public-pool.io
 stratumport,data,u16,21496
@@ -20,5 +20,5 @@ flipscreen,data,u16,1
 invertfanpol,data,u16,1
 autofanspeed,data,u16,1
 fanspeed,data,u16,100
-selftest,data,u16,1
+selftest,data,u16,0
 overheat_mode,data,u16,0
